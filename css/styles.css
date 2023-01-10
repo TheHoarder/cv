@@ -14,6 +14,11 @@ body{
     margin: 0;
     text-align: center;
 }
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -110,6 +115,11 @@ p{
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;   
+}
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 40px;
 }
 .top-container{
     background-color: #EAF6F6;
